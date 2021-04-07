@@ -1,4 +1,4 @@
-# ModuloCredito (MVP y Retrofit)
+# MóduloCrédito (MVP y Retrofit)
  
 #Algo de trabajo no está mal, debe crear los archivos 
 /dimens
