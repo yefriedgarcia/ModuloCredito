@@ -1,5 +1,5 @@
 #### Código hecho para práctica propia 
-#### renovado aquí: https://github.com/yefriedgarcia/ModuloCreditoModerno
+#### renovado aquí (Compose): https://github.com/yefriedgarcia/ModuloCreditoModerno
 
 # MóduloCrédito (MVP y Retrofit)
  
